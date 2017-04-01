@@ -1,0 +1,7 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|26 Nov 2016 05:57:33 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_cacheddtm:TX|26 Nov 2016 05:57:33 -0000
+vti_filesize:IR|2244
+vti_backlinkinfo:VX|
+vti_syncwith_localhost\\c\:\\users\\machine\\desktop\\scottish festival work in progress\\template\\master website templates/c\:/users/machine/desktop/scottish festival work in progress/template/master website templates:TR|26 Nov 2016 05:57:33 -0000
